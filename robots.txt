@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-nu1qod.privatetalks.online/sitemap.xml
